@@ -1,13 +1,13 @@
 # Census_Income_Project-----Jupyter-Notebook
 
-# Census Income Project
+## Census Income Project
 
 ### Problem Statement:
 
 
 This data was extracted from the 1994 Census bureau database by Ronny Kohavi and Barry Becker (Data Mining and Visualization, Silicon Graphics). A set of reasonably clean records was extracted using the following conditions: ((AAGE>16) && (AGI>100) && (AFNLWGT>1) && (HRSWK>0)). The prediction task is to determine whether a person makes over $50K a year.
 
-#### Description of fnlwgt (final weight)
+### Description of fnlwgt (final weight)
 
 The weights on the Current Population Survey (CPS) files are controlled to independent estimates of the civilian non-institutional population of the US. These are prepared monthly for us by Population Division here at the Census Bureau. We use 3 sets of controls. These are:
 
